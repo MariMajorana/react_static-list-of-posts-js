@@ -1,5 +1,4 @@
 import './App.scss';
-import './components/PostList/PostList.scss';
 import { PostList } from './components/PostList/PostList';
 
 import postsFromServer from './api/posts.json';
