@@ -1,5 +1,6 @@
 import './App.scss';
-import { PostList } from './components/PostList';
+import './components/PostList/PostList.scss';
+import { PostList } from './components/PostList/PostList';
 
 import postsFromServer from './api/posts.json';
 import commentsFromServer from './api/comments.json';
